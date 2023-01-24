@@ -30,6 +30,3 @@ jobs:
     - name: Sphinx build
       run: |
         make html
-    - name: Test with pytest
-      run: |
-        pytest

@@ -31,4 +31,5 @@ html_context = {'display_github': True,
                 'github_user': 'rkdarst',
                 'github_repo': 'sphinx-site-test',
                 'github_version': 'main/',
+                #'vcs_pageview_mode': 'edit',
                }
